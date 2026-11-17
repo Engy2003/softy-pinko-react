@@ -1,0 +1,10 @@
+@media (max-width: 767px) {
+    .lists{
+        justify-content: center;
+        align-items: center;
+    }
+    .price .list{
+        width: 90%;
+        // margin-left: 0;
+    }
+}
